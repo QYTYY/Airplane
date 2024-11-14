@@ -1,0 +1,5 @@
+Name: 打算
+ID Card: 13131
+Flight Number: CZ6374
+Flight Date: 3
+Flight Info: Departure City: 上海:Departure Latitude: 31.2492:Departure Longitude: 121.488:Arrival City: 长春:Arrival Latitude: 43.8983:Arrival Longitude: 125.314:Distance (km): 1698:Flight Number: CZ6374:Airline: 南方航空:Aircraft Model: 空客319(中):Average Delay: :Average Delay Time: :Schedule (Mon-Sun): 1, 1, 1, 1, 1, 1, 1:Valid From: 2016.11.27:Valid To: 2016.11.27:Departure Airport: 浦东机场:Arrival Airport: 龙嘉机场:Departure Time: 07:30:Arrival Time: 10:20:Flight Duration: 2小时50分钟
